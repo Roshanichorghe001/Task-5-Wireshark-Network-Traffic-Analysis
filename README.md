@@ -27,6 +27,9 @@ To capture live network packets and analyze different network protocols using Wi
 ### HTTP
 - Used for transferring web pages and other web content.
 
+### UDP
+A connectionless protocol used for fast communication where speed is more important than guaranteed delivery.
+
 ## Outcome
 Successfully captured live network traffic and analyzed different protocols using Wireshark. This task improved my understanding of packet capture, protocol analysis, and basic network troubleshooting.
 
